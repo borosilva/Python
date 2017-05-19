@@ -1,5 +1,5 @@
 # Obtener Datos Servicio Rest
-[![GitHub version](https://badge.fury.io/gh/python%2Fcpython.svg)](https://badge.fury.io/gh/python%2Fcpython)
+[![Python](https://badge.fury.io/gh/python%2Fcpython.svg)](https://badge.fury.io/gh/python%2Fcpython)
 
 Este proyecto obtiene datos de un servicio REST (API REST) que requiere autenticación.
 
